@@ -1,0 +1,4 @@
+Dairy Milk 20 500
+water bottle 20 200
+coca cola 20 700
+pens 2 100
